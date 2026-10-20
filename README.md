@@ -1,1 +1,16 @@
-# servidor-eduarda
+### registro de Uso de Inteligencia Artificial
+
+**1. O objetivo:** o que eu queria alterar ou adicionar na minha pagina?
+> 1. (Ex: Queria colocar uma imagem de fundo que cobrisse a tela toda).
+> 2.
+> 3.
+> 4.
+> 5.
+**2. A Ferramenta:** Qual IA eu utilizei?
+> 1. (Ex: chatGPT, Gemini, GitHub Copiloxt).
+> 2.
+**3. O comando (Prompt):** Qual foi a frase exata que eu digitei para a IA?
+> 1. (Ex: "Como colocar uma imagem de fundo no CSS usando o Flask?").
+> 2.
+**4. O Aprendizado:** O que a IA me ensinou e qual parte do código foi alterada?
+> 1. (Ex: Aprendi que preciso usar a propriedade background-size: cover no arquivo style.css).
